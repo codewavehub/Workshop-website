@@ -28,5 +28,5 @@ To get started click on CSS.
 
 ## Need help?
 
-- Visit the Discussion Board and post you're queries.
+- Visit the [Discussion Board](https://github.com/liet-csm/Workshop-website/discussions) and post you're queries.
 - If you want to contribute to this repo read the contribution guideline.
