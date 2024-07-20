@@ -20,10 +20,10 @@ To use this curriculum, fork the entire repo to your own GitHub account and comp
 - After learning HTML, Start learning CSS (Cascading Style Sheets)
 
 ## Step-1
-To get started click on HTML.
+To get started click on [HTML.](https://github.com/codewavehub/Workshop-website/tree/main/1-HTML)
 
 ## Step-2
-To get started click on CSS.
+To get started click on [CSS.](https://github.com/codewavehub/Workshop-website/tree/main/2-CSS)
 
 
 ## Need help?
